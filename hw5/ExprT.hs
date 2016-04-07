@@ -5,4 +5,3 @@ data ExprT = Lit Integer
            | Mul ExprT ExprT
     deriving (Show, Eq)
 
-
